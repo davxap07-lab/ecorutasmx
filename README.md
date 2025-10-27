@@ -64,7 +64,6 @@ Los contenidos están diseñados para resaltar los valores de sostenibilidad, in
 - *Mascorro Cortez Aleida Adriana 2144382*
 - *Ortega Gomez Natalia Del Refugio 2153510*
 - *Vallejo Rodriguez Fernando Benjamin 2153194]*
-- 
 - *Materia:* [Turismo Sustentable ]  
 - *Institución:* [Facultad de Ciencias Politicas y Relaciones Internacionales]  
 - *Docente:* [Alicia del Socorro Siller Garza]  
