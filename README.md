@@ -16,8 +16,9 @@ El sitio web y sus redes sociales buscan inspirar a los viajeros a conocer el pa
 
 Somos un equipo comprometido con el turismo sostenible. Nuestro objetivo es fomentar prácticas responsables que reduzcan el impacto ambiental y promuevan el desarrollo local en las costas mexicanas.
 Creemos que viajar puede ser una experiencia transformadora si se hace con conciencia y respeto por la naturaleza.
-Misión: Promover el turismo ecológico costero en México a través de la educación ambiental y la difusión digital.
-Visión: Ser una red líder en turismo sustentable costero en América Latina.
+
+- *Misión:* Promover el turismo ecológico costero en México a través de la educación ambiental y la difusión digital.
+- *Visión:* Ser una red líder en turismo sustentable costero en América Latina.
 
 ## 🧭 Objetivos del proyecto
 
