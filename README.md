@@ -58,12 +58,12 @@ Los contenidos están diseñados para resaltar los valores de sostenibilidad, in
 ## 📅 Equipo de desarrollo
 
 *Proyecto académico realizado por:*  
-👥 *[Aguirre Medellin Regina Azereth 2117741*
-*Aguirre Patiño David 2158800*
-*Castañeda Garcia Alejandra 2147544*
-*Mascorro Cortez Aleida Adriana 2144382*
-*Ortega Gomez Natalia Del Refugio 2153510*
-*Vallejo Rodriguez Fernando Benjamin 2153194]* 
+-👥 *[Aguirre Medellin Regina Azereth 2117741*
+-*Aguirre Patiño David 2158800*
+-*Castañeda Garcia Alejandra 2147544*
+-*Mascorro Cortez Aleida Adriana 2144382*
+- *Ortega Gomez Natalia Del Refugio 2153510*
+- *Vallejo Rodriguez Fernando Benjamin 2153194]* 
 *Materia:* [Turismo Sustentable ]  
 *Institución:* [Facultad de Ciencias Politicas y Relaciones Internacionales]  
 *Docente:* [Alicia del Socorro Siller Garza]  
