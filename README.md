@@ -20,6 +20,19 @@ Creemos que viajar puede ser una experiencia transformadora si se hace con conci
 - *Misión:* Promover el turismo ecológico costero en México a través de la educación ambiental y la difusión digital.
 - *Visión:* Ser una red líder en turismo sustentable costero en América Latina.
 
+---
+
+## 🏖️ Destinos ecológicos destacados
+
+- *Holbox, Quintana Roo* – Observación responsable de tiburones ballena.
+- *Mazunte, Oaxaca* – Santuario de tortugas y playas limpias.
+- *Bahías de Huatulco, Oaxaca* – Certificación EarthCheck por prácticas sustentables.
+- *La Paz, Baja California Sur* – Avistamiento de ballenas y turismo comunitario.
+- *Isla Espíritu Santo* – Reserva natural protegida con guías certificados.
+
+---
+
+
 ## 🧭 Objetivos del proyecto
 
 - Fomentar el *turismo responsable* en las costas mexicanas.  
